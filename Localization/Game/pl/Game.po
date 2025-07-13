@@ -1,0 +1,665 @@
+﻿# Copyright Epic Games, Inc. All Rights Reserved.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2021-03-08 16:06\n"
+"PO-Revision-Date: 2021-03-08 17:39+0100\n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.4.2\n"
+
+#. Key:	048D582C4F57E2B3FE407890D98CE700
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_MessagePanel.WBP_MessagePanel_C:WidgetTree.Message_Title.Text
+#: /Game/UI/GameplayScreen/Common/WBP_MessagePanel.WBP_MessagePanel_C:WidgetTree.Message_Title.Text
+msgctxt ",048D582C4F57E2B3FE407890D98CE700"
+msgid "New London Redux"
+msgstr ""
+
+#. Key:	060F318C427014385FF5768213F754C1
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_NotificationPanel.Default__WBP_NotificationPanel_C.PanelDescription
+#: /Game/UI/GameplayScreen/Common/WBP_NotificationPanel.Default__WBP_NotificationPanel_C.PanelDescription
+msgctxt ",060F318C427014385FF5768213F754C1"
+msgid "Test"
+msgstr ""
+
+#. Key:	06A948774E311F49C0C2E888E47BD9A7
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_ResourcePanel.WBP_ResourcePanel_C:WidgetTree.CoalTextBlock.Text
+#: /Game/UI/GameplayScreen/Common/WBP_ResourcePanel.WBP_ResourcePanel_C:WidgetTree.CoalTextBlock.Text
+msgctxt ",06A948774E311F49C0C2E888E47BD9A7"
+msgid "100$"
+msgstr ""
+
+#. Key:	07BAFB324237398A04261AA1C65F937A
+#. SourceLocation:	/Game/UGCExampleContent/UI/UGCClassesHeader.UGCClassesHeader_C:WidgetTree.TextBlock_53.Text
+#: /Game/UGCExampleContent/UI/UGCClassesHeader.UGCClassesHeader_C:WidgetTree.TextBlock_53.Text
+msgctxt ",07BAFB324237398A04261AA1C65F937A"
+msgid "All Classes"
+msgstr ""
+
+#. Key:	1083CFDE43B9D1A00CDA54BD85730876
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_TimePanel.WBP_TimePanel_C:WidgetTree.minutes.Text
+#: /Game/UI/GameplayScreen/Common/WBP_TimePanel.WBP_TimePanel_C:WidgetTree.minutes.Text
+msgctxt ",1083CFDE43B9D1A00CDA54BD85730876"
+msgid "59"
+msgstr ""
+
+#. Key:	10935A8D4D59833069F4738654340840
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_DistrictPanel.WBP_DistrictPanel_C:WidgetTree.Name_of_section.Text
+#: /Game/UI/GameplayScreen/Common/WBP_DistrictPanel.WBP_DistrictPanel_C:WidgetTree.Name_of_section.Text
+msgctxt ",10935A8D4D59833069F4738654340840"
+msgid "Situation"
+msgstr ""
+
+#. Key:	122733F14758EFF5EC97599A38E4D9D7
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_DistrictPanel.WBP_DistrictPanel_C:WidgetTree.Message_Content.Text
+#: /Game/UI/GameplayScreen/Common/WBP_DistrictPanel.WBP_DistrictPanel_C:WidgetTree.Message_Content.Text
+msgctxt ",122733F14758EFF5EC97599A38E4D9D7"
+msgid ""
+"It has been 30 years since the Great Storm that forget New London from a ragtag group of refugees into a community of survivors. Although the freezing temperatures and hostile enviroment are still here, they have smewhat been contained inside the city. As time passed and whole new generation of citizens was born without any memory of the World Before, a sense of normality returned and people started longing once more for comfort and meaning.\r\n"
+"\r\n"
+"But our coal reserves are running out. Engineers think we can substitute it with oil deposits recently surveyed in the vicinity. And so once more, the clock is ticking as we need to build a refinery to transform crude oil into heating fuel."
+msgstr ""
+
+#. Key:	13AC7A03463AD0C0CFA788A28DA8D813
+#. SourceLocation:	/Game/UI/Test/E_PanelGroup.E_PanelGroup.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/UI/Test/E_PanelGroup.E_PanelGroup.DisplayNameMap(1 -
+#: Value).DisplayNameMap
+msgctxt ",13AC7A03463AD0C0CFA788A28DA8D813"
+msgid "Resources"
+msgstr ""
+
+#. Key:	153856684EBF058527430ABD70ECBE61
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_ResourcePanel.WBP_ResourcePanel_C:WidgetTree.CharismaTextBlock.Text
+#: /Game/UI/GameplayScreen/Common/WBP_ResourcePanel.WBP_ResourcePanel_C:WidgetTree.CharismaTextBlock.Text
+msgctxt ",153856684EBF058527430ABD70ECBE61"
+msgid "1"
+msgstr ""
+
+#. Key:	1574A9134265036990FCDBB7118B2FAC
+#. SourceLocation:	/Game/UGCExampleContent/UI/UGCOverrideWidget.UGCOverrideWidget_C:WidgetTree.TextBlock_53.Text
+#: /Game/UGCExampleContent/UI/UGCOverrideWidget.UGCOverrideWidget_C:WidgetTree.TextBlock_53.Text
+msgctxt ",1574A9134265036990FCDBB7118B2FAC"
+msgid "NewActorName"
+msgstr ""
+
+#. Key:	1D5025784817D7465AED25ABCEBC979A
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_DistrictPanel.Default__WBP_DistrictPanel_C.PanelTitle
+#: /Game/UI/GameplayScreen/Common/WBP_DistrictPanel.Default__WBP_DistrictPanel_C.PanelTitle
+msgctxt ",1D5025784817D7465AED25ABCEBC979A"
+msgid "Test"
+msgstr ""
+
+#. Key:	1E62047C4478F026BFC0ADBB417A0829
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_WeatherPanel.WBP_WeatherPanel_C:WidgetTree.Wind_Number.Text
+#: /Game/UI/GameplayScreen/Common/WBP_WeatherPanel.WBP_WeatherPanel_C:WidgetTree.Wind_Number.Text
+msgctxt ",1E62047C4478F026BFC0ADBB417A0829"
+msgid "0"
+msgstr ""
+
+#. Key:	1EF0DB2B4A55B20228E9FBA7CCF0AE0D
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_MessagePanel.Default__WBP_MessagePanel_C.PanelTitle
+#: /Game/UI/GameplayScreen/Common/WBP_MessagePanel.Default__WBP_MessagePanel_C.PanelTitle
+msgctxt ",1EF0DB2B4A55B20228E9FBA7CCF0AE0D"
+msgid "Test"
+msgstr ""
+
+#. Key:	299A064746C446B2CDD53BA41D1B62EF
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_WeatherPanel.Default__WBP_WeatherPanel_C.PanelTitle
+#: /Game/UI/GameplayScreen/Common/WBP_WeatherPanel.Default__WBP_WeatherPanel_C.PanelTitle
+msgctxt ",299A064746C446B2CDD53BA41D1B62EF"
+msgid "Test"
+msgstr ""
+
+#. Key:	2ECB35C244302BC9E7D763B5EAC8D436
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_ConfirmExitToMainMenuHUD.WBP_ConfirmExitToMainMenuHUD_C:WidgetTree.DoItText.Text
+#: /Game/UI/GameplayScreen/Common/WBP_ConfirmExitToMainMenuHUD.WBP_ConfirmExitToMainMenuHUD_C:WidgetTree.DoItText.Text
+msgctxt ",2ECB35C244302BC9E7D763B5EAC8D436"
+msgid "No"
+msgstr "Nie"
+
+#. Key:	3812154F4EDBB5CC1624B58D9FEC36D6
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_TimePanel.WBP_TimePanel_C:WidgetTree.City_Name.Text
+#: /Game/UI/GameplayScreen/Common/WBP_TimePanel.WBP_TimePanel_C:WidgetTree.City_Name.Text
+msgctxt ",3812154F4EDBB5CC1624B58D9FEC36D6"
+msgid "New Tinderwoodsville"
+msgstr ""
+
+#. Key:	38D80CDA4FBFEA1721EB70B3BC59B3E6
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_MessagePanel.WBP_MessagePanel_C:WidgetTree.Message_Button.Text
+#: /Game/UI/GameplayScreen/Common/WBP_MessagePanel.WBP_MessagePanel_C:WidgetTree.Message_Button.Text
+msgctxt ",38D80CDA4FBFEA1721EB70B3BC59B3E6"
+msgid "We will prevail"
+msgstr ""
+
+#. Key:	392E6BF84F95171081DEB5A945226CAF
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_IndifferenceBar.Default__WBP_IndifferenceBar_C.PanelDescription
+#: /Game/UI/GameplayScreen/Common/WBP_IndifferenceBar.Default__WBP_IndifferenceBar_C.PanelDescription
+msgctxt ",392E6BF84F95171081DEB5A945226CAF"
+msgid "Test"
+msgstr ""
+
+#. Key:	4354F56549665C72EA6A39A5D80CFA6A
+#. SourceLocation:	/Game/UI/MainMenuScreen/WBP_PcMainMenuScreen.WBP_PcMainMenuScreen_C:WidgetTree.text.Text
+#: /Game/UI/MainMenuScreen/WBP_PcMainMenuScreen.WBP_PcMainMenuScreen_C:WidgetTree.text.Text
+msgctxt ",4354F56549665C72EA6A39A5D80CFA6A"
+msgid "Main menu"
+msgstr "Główne menu"
+
+#. Key:	455C6DE1456C9DCFA212158309727172
+#. SourceLocation:	/Game/UI/MainMenuScreen/WBP_PadMainMenuScreen.WBP_PadMainMenuScreen_C:WidgetTree.DoItText.Text
+#: /Game/UI/MainMenuScreen/WBP_PadMainMenuScreen.WBP_PadMainMenuScreen_C:WidgetTree.DoItText.Text
+msgctxt ",455C6DE1456C9DCFA212158309727172"
+msgid "Exit"
+msgstr "Wyjdź"
+
+#. Key:	466433CF4ECC7B21392F70800CD7BEC9
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_DialogPanel.WBP_DialogPanel_C:WidgetTree.BP_DialogueOtherAnswer.AnswerText
+#: /Game/UI/GameplayScreen/Common/WBP_DialogPanel.WBP_DialogPanel_C:WidgetTree.BP_DialogueOtherAnswer.AnswerText
+msgctxt ",466433CF4ECC7B21392F70800CD7BEC9"
+msgid "BBBBBBB"
+msgstr ""
+
+#. Key:	485FC5424729AFD0DFBC6E9EABD170A9
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_QuestPanel.WBP_QuestPanel_C:WidgetTree.Quest_Timer.Text
+#: /Game/UI/GameplayScreen/Common/WBP_QuestPanel.WBP_QuestPanel_C:WidgetTree.Quest_Timer.Text
+msgctxt ",485FC5424729AFD0DFBC6E9EABD170A9"
+msgid "turns left:"
+msgstr ""
+
+#. Key:	4C45F38B445555B743B6C49A7AB0686F
+#. SourceLocation:	/Game/UI/Test/E_PanelGroup.E_PanelGroup.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/UI/Test/E_PanelGroup.E_PanelGroup.DisplayNameMap(3 -
+#: Value).DisplayNameMap
+msgctxt ",4C45F38B445555B743B6C49A7AB0686F"
+msgid "Minimap"
+msgstr ""
+
+#. Key:	4D399F654501E58E83C2D082F1781012
+#. SourceLocation:	/Game/UGCExampleContent/UI/UGCOverrideWidget.UGCOverrideWidget_C:WidgetTree.TextBlock_101.Text
+#: /Game/UGCExampleContent/UI/UGCOverrideWidget.UGCOverrideWidget_C:WidgetTree.TextBlock_101.Text
+msgctxt ",4D399F654501E58E83C2D082F1781012"
+msgid "Apply"
+msgstr ""
+
+#. Key:	50677F1C498C3ACDC30D5DA7C52089BB
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_ResourcePanel.WBP_ResourcePanel_C:WidgetTree.resource_name.Text
+#: /Game/UI/GameplayScreen/Common/WBP_ResourcePanel.WBP_ResourcePanel_C:WidgetTree.resource_name.Text
+msgctxt ",50677F1C498C3ACDC30D5DA7C52089BB"
+msgid "Charisma:"
+msgstr ""
+
+#. Key:	522A91134D472C40A78811A16531D91E
+#. SourceLocation:	/Game/UI/Test/WBP_TestResourcesPanel.WBP_TestResourcesPanel_C:WidgetTree.TextBlock_3.Text
+#: /Game/UI/Test/WBP_TestResourcesPanel.WBP_TestResourcesPanel_C:WidgetTree.TextBlock_3.Text
+msgctxt ",522A91134D472C40A78811A16531D91E"
+msgid "111"
+msgstr ""
+
+#. Key:	574579794864BA708D744D87F89D2D5B
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/BP_DialogueOtherAnswer.BP_DialogueOtherAnswer_C:WidgetTree.LOVERS_WORDS.Text
+#: /Game/UI/GameplayScreen/Common/BP_DialogueOtherAnswer.BP_DialogueOtherAnswer_C:WidgetTree.LOVERS_WORDS.Text
+msgctxt ",574579794864BA708D744D87F89D2D5B"
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam nulla urna, commodo sit amet dictum ac, volutpat sed libero. Vivamus pharetra blandit odio, ac tincidunt ipsum feugiat a. Donec posuere dolor sem, eu porttitor nulla imperdiet eu. "
+msgstr ""
+
+#. Key:	5D98BED74965B4C8AB20F7AE4C507903
+#. SourceLocation:	/Game/UI/MainMenuScreen/WBP_PadMainMenuScreen.WBP_PadMainMenuScreen_C:WidgetTree.text.Text
+#: /Game/UI/MainMenuScreen/WBP_PadMainMenuScreen.WBP_PadMainMenuScreen_C:WidgetTree.text.Text
+msgctxt ",5D98BED74965B4C8AB20F7AE4C507903"
+msgid "Main menu"
+msgstr "Główne menu"
+
+#. Key:	5E9ED7F644E72F24100DE4972E508FF1
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_SelectionPanel.WBP_SelectionPanel_C:WidgetTree.TextBlock_664.Text
+#: /Game/UI/GameplayScreen/Common/WBP_SelectionPanel.WBP_SelectionPanel_C:WidgetTree.TextBlock_664.Text
+msgctxt ",5E9ED7F644E72F24100DE4972E508FF1"
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam nulla urna, commodo sit amet dictum ac, volutpat sed libero. Vivamus pharetra blandit odio, ac tincidunt ipsum feugiat a. Donec posuere dolor sem, eu porttitor nulla imperdiet eu. "
+msgstr ""
+
+#. Key:	5EDE801E42457ADEFB1E5D997D913A3C
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_NotificationElement.Default__WBP_NotificationElement_C.PanelTitle
+#: /Game/UI/GameplayScreen/Common/WBP_NotificationElement.Default__WBP_NotificationElement_C.PanelTitle
+msgctxt ",5EDE801E42457ADEFB1E5D997D913A3C"
+msgid "Test"
+msgstr ""
+
+#. Key:	61FA644E4126A1994555D7A89754BF91
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_DistrictPanel.Default__WBP_DistrictPanel_C.PanelDescription
+#: /Game/UI/GameplayScreen/Common/WBP_DistrictPanel.Default__WBP_DistrictPanel_C.PanelDescription
+msgctxt ",61FA644E4126A1994555D7A89754BF91"
+msgid "Test"
+msgstr ""
+
+#. Key:	6F5D92B840F5EBC0DB7774B7B7EBC339
+#. SourceLocation:	/Game/UGCExampleContent/UI/UGCMapsHeader.UGCMapsHeader_C:WidgetTree.TextBlock_53.Text
+#: /Game/UGCExampleContent/UI/UGCMapsHeader.UGCMapsHeader_C:WidgetTree.TextBlock_53.Text
+msgctxt ",6F5D92B840F5EBC0DB7774B7B7EBC339"
+msgid "Maps"
+msgstr ""
+
+#. Key:	6F94048E446D5E6D0B994FB651C478E1
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_ResourcePanel.WBP_ResourcePanel_C:WidgetTree.resource_name_4.Text
+#: /Game/UI/GameplayScreen/Common/WBP_ResourcePanel.WBP_ResourcePanel_C:WidgetTree.resource_name_4.Text
+msgctxt ",6F94048E446D5E6D0B994FB651C478E1"
+msgid "Coal:"
+msgstr ""
+
+#. Key:	7077C2404943199B02BCC98A4DB20BAC
+#. SourceLocation:	/Game/UGCExampleContent/Maps/ExampleMap.ExampleMap:PersistentLevel.TextRenderActor2.NewTextRenderComponent.Text
+#: /Game/UGCExampleContent/Maps/ExampleMap.ExampleMap:PersistentLevel.TextRenderActor2.NewTextRenderComponent.Text
+msgctxt ",7077C2404943199B02BCC98A4DB20BAC"
+msgid "Spawned SphereActor"
+msgstr ""
+
+#. Key:	7B1B961747582D230E6FD99AD216E643
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_ConfirmExitToMainMenuHUD.WBP_ConfirmExitToMainMenuHUD_C:WidgetTree.DoItText_1.Text
+#: /Game/UI/GameplayScreen/Common/WBP_ConfirmExitToMainMenuHUD.WBP_ConfirmExitToMainMenuHUD_C:WidgetTree.DoItText_1.Text
+msgctxt ",7B1B961747582D230E6FD99AD216E643"
+msgid "Yes"
+msgstr "Tak"
+
+#. Key:	7BFFAC9346369EA501B6C8BB16080A48
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_WeatherPanel.WBP_WeatherPanel_C:WidgetTree.Wind_icon_txt_1.Text
+#: /Game/UI/GameplayScreen/Common/WBP_WeatherPanel.WBP_WeatherPanel_C:WidgetTree.Wind_icon_txt_1.Text
+msgctxt ",7BFFAC9346369EA501B6C8BB16080A48"
+msgid "Cold"
+msgstr ""
+
+#. Key:	7D72BCCE402E8FDCD01837AF4E906114
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_MessagePanel.Default__WBP_MessagePanel_C.PanelDescription
+#: /Game/UI/GameplayScreen/Common/WBP_MessagePanel.Default__WBP_MessagePanel_C.PanelDescription
+msgctxt ",7D72BCCE402E8FDCD01837AF4E906114"
+msgid "Test"
+msgstr ""
+
+#. Key:	7E02463C4E557078872AFB8BAF9C3A9B
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_WeatherPanel.Default__WBP_WeatherPanel_C.PanelDescription
+#: /Game/UI/GameplayScreen/Common/WBP_WeatherPanel.Default__WBP_WeatherPanel_C.PanelDescription
+msgctxt ",7E02463C4E557078872AFB8BAF9C3A9B"
+msgid "Test"
+msgstr ""
+
+#. Key:	7F66DC554B536D42E3BC4E975FA701D6
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_DialogPanel.WBP_DialogPanel_C:ExecuteUbergraph_WBP_DialogPanel [Script Bytecode]
+#: /Game/UI/GameplayScreen/Common/WBP_DialogPanel.WBP_DialogPanel_C:ExecuteUbergraph_WBP_DialogPanel
+#: [Script Bytecode]
+msgctxt ",7F66DC554B536D42E3BC4E975FA701D6"
+msgid "Choice Id: {0} clicked"
+msgstr ""
+
+#. Key:	7FD37999427AA74F723E8DBF7AEE7BB6
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_ConfirmExitToMainMenuHUD.WBP_ConfirmExitToMainMenuHUD_C:WidgetTree.TextBlock_0.Text
+#: /Game/UI/GameplayScreen/Common/WBP_ConfirmExitToMainMenuHUD.WBP_ConfirmExitToMainMenuHUD_C:WidgetTree.TextBlock_0.Text
+msgctxt ",7FD37999427AA74F723E8DBF7AEE7BB6"
+msgid "Are you sure?"
+msgstr ""
+
+#. Key:	80CA05C0452E4A335D031CBDD253E99B
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_DialogPanel.WBP_DialogPanel_C:WidgetTree.BP_DialoguePlayerAnswer.AnswerText
+#: /Game/UI/GameplayScreen/Common/WBP_DialogPanel.WBP_DialogPanel_C:WidgetTree.BP_DialoguePlayerAnswer.AnswerText
+msgctxt ",80CA05C0452E4A335D031CBDD253E99B"
+msgid "AAAAAAAA"
+msgstr ""
+
+#. Key:	812BA5C2430352F1CBAEE19888D07230
+#. SourceLocation:	/Game/UGCExampleContent/UI/ModMenuWidget.ModMenuWidget_C:PopulateRegisteredOverrides [Script Bytecode]
+#: /Game/UGCExampleContent/UI/ModMenuWidget.ModMenuWidget_C:PopulateRegisteredOverrides
+#: [Script Bytecode]
+msgctxt ",812BA5C2430352F1CBAEE19888D07230"
+msgid "Registered Overrides"
+msgstr ""
+
+#. Key:	84370DAA4C30CC3CE9785D9F013EE9FF
+#. SourceLocation:	/Game/UGCExampleContent/UI/ModMenuWidget.ModMenuWidget_C:SetupHeaderText [Script Bytecode]
+#: /Game/UGCExampleContent/UI/ModMenuWidget.ModMenuWidget_C:SetupHeaderText
+#: [Script Bytecode]
+msgctxt ",84370DAA4C30CC3CE9785D9F013EE9FF"
+msgid "UGC Packages"
+msgstr ""
+
+#. Key:	84CCB5A44F5B4236B1EB23B45B92199F
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_NotificationElement.WBP_NotificationElement_C:WidgetTree.Notification_title.Text
+#: /Game/UI/GameplayScreen/Common/WBP_NotificationElement.WBP_NotificationElement_C:WidgetTree.Notification_title.Text
+msgctxt ",84CCB5A44F5B4236B1EB23B45B92199F"
+msgid "Very important notification title"
+msgstr ""
+
+#. Key:	85A261A346EFD21241892D82295FAA89
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_SelectionPanel.Default__WBP_SelectionPanel_C.PanelDescription
+#: /Game/UI/GameplayScreen/Common/WBP_SelectionPanel.Default__WBP_SelectionPanel_C.PanelDescription
+msgctxt ",85A261A346EFD21241892D82295FAA89"
+msgid "Test"
+msgstr ""
+
+#. Key:	911E7D074C47AD81AE5A7AB18C687607
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_NotificationElement.Default__WBP_NotificationElement_C.PanelDescription
+#: /Game/UI/GameplayScreen/Common/WBP_NotificationElement.Default__WBP_NotificationElement_C.PanelDescription
+msgctxt ",911E7D074C47AD81AE5A7AB18C687607"
+msgid "Test"
+msgstr ""
+
+#. Key:	9143C71240DAA2AEE4F4A7B97CD883E5
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/BP_DialoguePlayerAnswer.BP_DialoguePlayerAnswer_C:WidgetTree.OUR_ANSWER.Text
+#: /Game/UI/GameplayScreen/Common/BP_DialoguePlayerAnswer.BP_DialoguePlayerAnswer_C:WidgetTree.OUR_ANSWER.Text
+msgctxt ",9143C71240DAA2AEE4F4A7B97CD883E5"
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam nulla urna, commodo sit amet dictum ac, volutpat sed libero. Vivamus pharetra blandit odio, ac tincidunt ipsum feugiat a. Donec posuere dolor sem, eu porttitor nulla imperdiet eu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam nulla urna, commodo sit amet dictum ac, volutpat sed libero. Vivamus pharetra blandit odio, ac tincidunt ipsum feugiat a. Donec posuere dolor sem, eu porttitor nulla imperdiet eu. "
+msgstr ""
+
+#. Key:	96E2A3F441EDDB2FEC57068DD7721F0E
+#. SourceLocation:	/Game/UGCExampleContent/UI/UGCMapWidget.UGCMapWidget_C:WidgetTree.TextBlock_101.Text
+#: /Game/UGCExampleContent/UI/UGCMapWidget.UGCMapWidget_C:WidgetTree.TextBlock_101.Text
+msgctxt ",96E2A3F441EDDB2FEC57068DD7721F0E"
+msgid "Open"
+msgstr ""
+
+#. Key:	9736FEBD4882E2DED41E68A33650F965
+#. SourceLocation:	/Game/UI/MainMenuScreen/WBP_PadMainMenuScreen.WBP_PadMainMenuScreen_C:WidgetTree.DoItText_1.Text
+#: /Game/UI/MainMenuScreen/WBP_PadMainMenuScreen.WBP_PadMainMenuScreen_C:WidgetTree.DoItText_1.Text
+msgctxt ",9736FEBD4882E2DED41E68A33650F965"
+msgid "Play"
+msgstr "Start"
+
+#. Key:	97BE51AF42A6CAAD6DFD218364343B8A
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_IndifferenceBar.WBP_IndifferenceBar_C:WidgetTree.Quest_Name.Text
+#: /Game/UI/GameplayScreen/Common/WBP_IndifferenceBar.WBP_IndifferenceBar_C:WidgetTree.Quest_Name.Text
+msgctxt ",97BE51AF42A6CAAD6DFD218364343B8A"
+msgid "Indiference"
+msgstr ""
+
+#. Key:	9AF4F19346EC5D0DA9C6AC90E1D65697
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_QuestPanel.WBP_QuestPanel_C:WidgetTree.Quest_Name.Text
+#: /Game/UI/GameplayScreen/Common/WBP_QuestPanel.WBP_QuestPanel_C:WidgetTree.Quest_Name.Text
+msgctxt ",9AF4F19346EC5D0DA9C6AC90E1D65697"
+msgid "Your Epic Quest"
+msgstr ""
+
+#. Key:	9C1DFC8D47592EB753D03D94B4B1ABB3
+#. SourceLocation:	/Game/UGCExampleContent/UI/UGCMapWidget.UGCMapWidget_C:WidgetTree.TextBlock_53.Text
+#: /Game/UGCExampleContent/UI/UGCMapWidget.UGCMapWidget_C:WidgetTree.TextBlock_53.Text
+msgctxt ",9C1DFC8D47592EB753D03D94B4B1ABB3"
+msgid "New Map Name"
+msgstr ""
+
+#. Key:	9C56A4704B47293959F9F390E71A10B3
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/BP_DialogueChoiceButton.BP_DialogueChoiceButton_C:WidgetTree.ButtonText.Text
+#: /Game/UI/GameplayScreen/Common/BP_DialogueChoiceButton.BP_DialogueChoiceButton_C:WidgetTree.ButtonText.Text
+msgctxt ",9C56A4704B47293959F9F390E71A10B3"
+msgid "choice text"
+msgstr ""
+
+#. Key:	9E788DE34CBE220A403D1B9D5FA7DB0A
+#. SourceLocation:	/Game/UGCExampleContent/UI/UGCOverrideActorToReplaceWidget.UGCOverrideActorToReplaceWidget_C:WidgetTree.TextBlock_53.Text
+#: /Game/UGCExampleContent/UI/UGCOverrideActorToReplaceWidget.UGCOverrideActorToReplaceWidget_C:WidgetTree.TextBlock_53.Text
+msgctxt ",9E788DE34CBE220A403D1B9D5FA7DB0A"
+msgid "Old Actor Name"
+msgstr ""
+
+#. Key:	9F8124F74FC85D98340FBA83CFBB4874
+#. SourceLocation:	/Game/UGCExampleContent/UI/UGCActorReplacementsHeader.UGCActorReplacementsHeader_C:WidgetTree.TextBlock_101.Text
+#: /Game/UGCExampleContent/UI/UGCActorReplacementsHeader.UGCActorReplacementsHeader_C:WidgetTree.TextBlock_101.Text
+msgctxt ",9F8124F74FC85D98340FBA83CFBB4874"
+msgid "Apply All"
+msgstr ""
+
+#. Key:	A01103D94BFA32650F8A29B600AE8D8A
+#. SourceLocation:	/Game/UGCExampleContent/UI/UGCActorReplacementsHeader.UGCActorReplacementsHeader_C:WidgetTree.TextBlock_53.Text
+#: /Game/UGCExampleContent/UI/UGCActorReplacementsHeader.UGCActorReplacementsHeader_C:WidgetTree.TextBlock_53.Text
+msgctxt ",A01103D94BFA32650F8A29B600AE8D8A"
+msgid "Actor Replacements"
+msgstr ""
+
+#. Key:	A1797E0A4727699A2E83C0AC9B6F08D0
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_QuestPanel.WBP_QuestPanel_C:WidgetTree.Message_Content_2.Text
+#: /Game/UI/GameplayScreen/Common/WBP_QuestPanel.WBP_QuestPanel_C:WidgetTree.Message_Content_2.Text
+msgctxt ",A1797E0A4727699A2E83C0AC9B6F08D0"
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
+msgstr ""
+
+#. Key:	A7C3BD6B48564914A52C6F91F5AD26DE
+#. SourceLocation:	/Game/UGCExampleContent/UI/UGCRegisteredOverrideWidget.UGCRegisteredOverrideWidget_C:WidgetTree.TextBlock_53.Text
+#: /Game/UGCExampleContent/UI/UGCRegisteredOverrideWidget.UGCRegisteredOverrideWidget_C:WidgetTree.TextBlock_53.Text
+msgctxt ",A7C3BD6B48564914A52C6F91F5AD26DE"
+msgid "Override replaces Origin"
+msgstr ""
+
+#. Key:	AD8BCD4F479E3D06687090806BE0F2E3
+#. SourceLocation:	/Game/UI/Test/E_PanelGroup.E_PanelGroup.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/UI/Test/E_PanelGroup.E_PanelGroup.DisplayNameMap(0 -
+#: Value).DisplayNameMap
+msgctxt ",AD8BCD4F479E3D06687090806BE0F2E3"
+msgid "None"
+msgstr ""
+
+#. Key:	ADFA8BF2434E07A419BFC88F9574421D
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_TimePanel.WBP_TimePanel_C:WidgetTree.hours.Text
+#: /Game/UI/GameplayScreen/Common/WBP_TimePanel.WBP_TimePanel_C:WidgetTree.hours.Text
+msgctxt ",ADFA8BF2434E07A419BFC88F9574421D"
+msgid "16"
+msgstr ""
+
+#. Key:	AF71860A4D3B7960FA71B0965BF997E1
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_QuestPanel.Default__WBP_QuestPanel_C.PanelTitle
+#: /Game/UI/GameplayScreen/Common/WBP_QuestPanel.Default__WBP_QuestPanel_C.PanelTitle
+msgctxt ",AF71860A4D3B7960FA71B0965BF997E1"
+msgid "Test"
+msgstr ""
+
+#. Key:	B4C02187409F002004D2E9BDD8AEC717
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_QuestPanel.WBP_QuestPanel_C:WidgetTree.Turns_Number.Text
+#: /Game/UI/GameplayScreen/Common/WBP_QuestPanel.WBP_QuestPanel_C:WidgetTree.Turns_Number.Text
+msgctxt ",B4C02187409F002004D2E9BDD8AEC717"
+msgid "32"
+msgstr ""
+
+#. Key:	B76E9AAE4FD01616CA821199C342BDB7
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_WeatherPanel.WBP_WeatherPanel_C:WidgetTree.Wind_icon_txt.Text
+#: /Game/UI/GameplayScreen/Common/WBP_WeatherPanel.WBP_WeatherPanel_C:WidgetTree.Wind_icon_txt.Text
+msgctxt ",B76E9AAE4FD01616CA821199C342BDB7"
+msgid "Wind"
+msgstr ""
+
+#. Key:	B90CBC794401298BDDCEB9AEE33B4E01
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_TimePanel.WBP_TimePanel_C:WidgetTree.Day.Text
+#: /Game/UI/GameplayScreen/Common/WBP_TimePanel.WBP_TimePanel_C:WidgetTree.Day.Text
+msgctxt ",B90CBC794401298BDDCEB9AEE33B4E01"
+msgid "Day:"
+msgstr ""
+
+#. Key:	B9F0E107409449B5599BA189EC8F33EA
+#. SourceLocation:	/Game/UI/Test/E_PanelGroup.E_PanelGroup.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/UI/Test/E_PanelGroup.E_PanelGroup.DisplayNameMap(2 -
+#: Value).DisplayNameMap
+msgctxt ",B9F0E107409449B5599BA189EC8F33EA"
+msgid "Menu"
+msgstr ""
+
+#. Key:	BB0A802248AA0B63BD38BCB1956E0DBC
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_QuestPanel.Default__WBP_QuestPanel_C.PanelDescription
+#: /Game/UI/GameplayScreen/Common/WBP_QuestPanel.Default__WBP_QuestPanel_C.PanelDescription
+msgctxt ",BB0A802248AA0B63BD38BCB1956E0DBC"
+msgid "Test"
+msgstr ""
+
+#. Key:	BCC094354C50B0C57D3DDC8F0631BC86
+#. SourceLocation:	/Game/UI/Test/WBP_TestResourcesPanel.WBP_TestResourcesPanel_C:WidgetTree.TextBlock_2.Text
+#: /Game/UI/Test/WBP_TestResourcesPanel.WBP_TestResourcesPanel_C:WidgetTree.TextBlock_2.Text
+msgctxt ",BCC094354C50B0C57D3DDC8F0631BC86"
+msgid "Beer: "
+msgstr ""
+
+#. Key:	BF5BBDDA417F12450477C2AF56B9A1EE
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_SelectionPanel.Default__WBP_SelectionPanel_C.PanelTitle
+#: /Game/UI/GameplayScreen/Common/WBP_SelectionPanel.Default__WBP_SelectionPanel_C.PanelTitle
+msgctxt ",BF5BBDDA417F12450477C2AF56B9A1EE"
+msgid "Test"
+msgstr ""
+
+#. Key:	C1FFE88B471637E6AA0A98B9D87719CE
+#. SourceLocation:	/Game/UGCExampleContent/Maps/ExampleMap.ExampleMap:PersistentLevel.TextRenderActor_1.NewTextRenderComponent.Text
+#: /Game/UGCExampleContent/Maps/ExampleMap.ExampleMap:PersistentLevel.TextRenderActor_1.NewTextRenderComponent.Text
+msgctxt ",C1FFE88B471637E6AA0A98B9D87719CE"
+msgid "Spawned CubeActor"
+msgstr ""
+
+#. Key:	D3B833B24DEB2D28D0F4168B2B808209
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_SelectionPanel.WBP_SelectionPanel_C:WidgetTree.NameofBuilding.Text
+#: /Game/UI/GameplayScreen/Common/WBP_SelectionPanel.WBP_SelectionPanel_C:WidgetTree.NameofBuilding.Text
+msgctxt ",D3B833B24DEB2D28D0F4168B2B808209"
+msgid "Stables"
+msgstr ""
+
+#. Key:	D3BCAC354F98235FD1821DB6517D039D
+#. SourceLocation:	/Game/UI/MainMenuScreen/WBP_PcMainMenuScreen.WBP_PcMainMenuScreen_C:WidgetTree.DoItText_1.Text
+#: /Game/UI/MainMenuScreen/WBP_PcMainMenuScreen.WBP_PcMainMenuScreen_C:WidgetTree.DoItText_1.Text
+msgctxt ",D3BCAC354F98235FD1821DB6517D039D"
+msgid "Play"
+msgstr "Start"
+
+#. Key:	D9331E1B4E9C8EE23FDF45BB4F5008BC
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_DistrictPanel.WBP_DistrictPanel_C:WidgetTree.Name_of_section_2.Text
+#: /Game/UI/GameplayScreen/Common/WBP_DistrictPanel.WBP_DistrictPanel_C:WidgetTree.Name_of_section_2.Text
+msgctxt ",D9331E1B4E9C8EE23FDF45BB4F5008BC"
+msgid "Infrastructure"
+msgstr ""
+
+#. Key:	DDFC8FC9467C5F780A7D288060AE88B6
+#. SourceLocation:	/Game/UGCExampleContent/UI/ModMenuWidget.ModMenuWidget_C:WidgetTree.TextBlock_101.Text
+#: /Game/UGCExampleContent/UI/ModMenuWidget.ModMenuWidget_C:WidgetTree.TextBlock_101.Text
+msgctxt ",DDFC8FC9467C5F780A7D288060AE88B6"
+msgid "Open Example Map"
+msgstr ""
+
+#. Key:	E1EA674741CFCD150838B2A2D46070E1
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_DistrictPanel.WBP_DistrictPanel_C:WidgetTree.District_Name.Text
+#: /Game/UI/GameplayScreen/Common/WBP_DistrictPanel.WBP_DistrictPanel_C:WidgetTree.District_Name.Text
+msgctxt ",E1EA674741CFCD150838B2A2D46070E1"
+msgid "Gloutcestershire"
+msgstr ""
+
+#. Key:	E23888A34FED5DCF35C07EAE498EFB5D
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_DistrictPanel.WBP_DistrictPanel_C:WidgetTree.Name_of_section_1.Text
+#: /Game/UI/GameplayScreen/Common/WBP_DistrictPanel.WBP_DistrictPanel_C:WidgetTree.Name_of_section_1.Text
+msgctxt ",E23888A34FED5DCF35C07EAE498EFB5D"
+msgid "Communities"
+msgstr ""
+
+#. Key:	E59B172E48EDB18F8F555292B419ACB9
+#. SourceLocation:	/Game/UI/Test/WBP_TestMenuPanel.WBP_TestMenuPanel_C:WidgetTree.TextBlock_437.Text
+#: /Game/UI/Test/WBP_TestMenuPanel.WBP_TestMenuPanel_C:WidgetTree.TextBlock_437.Text
+msgctxt ",E59B172E48EDB18F8F555292B419ACB9"
+msgid "Return to game"
+msgstr ""
+
+#. Key:	E59D19634EE05C792468CAA42328AA42
+#. SourceLocation:	/Game/UI/Test/WBP_TestResourcesPanel.WBP_TestResourcesPanel_C:WidgetTree.TextBlock_1.Text
+#: /Game/UI/Test/WBP_TestResourcesPanel.WBP_TestResourcesPanel_C:WidgetTree.TextBlock_1.Text
+msgctxt ",E59D19634EE05C792468CAA42328AA42"
+msgid "234"
+msgstr ""
+
+#. Key:	E7272C5C4E2C117B951AE89047962A09
+#. SourceLocation:	/Game/UI/Test/WBP_TestBuildButtonPanel.WBP_TestBuildButtonPanel_C:WidgetTree.TextBlock_0.Text
+#: /Game/UI/Test/WBP_TestBuildButtonPanel.WBP_TestBuildButtonPanel_C:WidgetTree.TextBlock_0.Text
+msgctxt ",E7272C5C4E2C117B951AE89047962A09"
+msgid "Build"
+msgstr ""
+
+#. Key:	EBA2947E4541679E162E3F8F2F13C454
+#. SourceLocation:	/Game/UI/Test/WBP_TestResourcesPanel.WBP_TestResourcesPanel_C:WidgetTree.TextBlock_0.Text
+#: /Game/UI/Test/WBP_TestResourcesPanel.WBP_TestResourcesPanel_C:WidgetTree.TextBlock_0.Text
+msgctxt ",EBA2947E4541679E162E3F8F2F13C454"
+msgid "Iron: "
+msgstr ""
+
+#. Key:	EC498268471D15CD28B9FCA1BB8AA08D
+#. SourceLocation:	/Game/UGCExampleContent/UI/UGCClassWidget.UGCClassWidget_C:WidgetTree.TextBlock_53.Text
+#: /Game/UGCExampleContent/UI/UGCClassWidget.UGCClassWidget_C:WidgetTree.TextBlock_53.Text
+msgctxt ",EC498268471D15CD28B9FCA1BB8AA08D"
+msgid "New Class Name"
+msgstr ""
+
+#. Key:	EE2AC042454F6B8C7E43EFB677693392
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_ResourcePanel.WBP_ResourcePanel_C:WidgetTree.resource_name_5.Text
+#: /Game/UI/GameplayScreen/Common/WBP_ResourcePanel.WBP_ResourcePanel_C:WidgetTree.resource_name_5.Text
+msgctxt ",EE2AC042454F6B8C7E43EFB677693392"
+msgid "Intelligence:"
+msgstr ""
+
+#. Key:	F057044B469E1065C1A33AB1428B448F
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_ResourcePanel.WBP_ResourcePanel_C:WidgetTree.FameTextBlock.Text
+#: /Game/UI/GameplayScreen/Common/WBP_ResourcePanel.WBP_ResourcePanel_C:WidgetTree.FameTextBlock.Text
+msgctxt ",F057044B469E1065C1A33AB1428B448F"
+msgid "0"
+msgstr ""
+
+#. Key:	F101D8B64119025F0DC8258A34512CA3
+#. SourceLocation:	/Game/UGCExampleContent/UI/UGCClearOverridesWidget.UGCClearOverridesWidget_C:WidgetTree.TextBlock_101.Text
+#: /Game/UGCExampleContent/UI/UGCClearOverridesWidget.UGCClearOverridesWidget_C:WidgetTree.TextBlock_101.Text
+msgctxt ",F101D8B64119025F0DC8258A34512CA3"
+msgid "Clear All Overrides"
+msgstr ""
+
+#. Key:	F183F07243F0E156CCCD73B5D3DD4836
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_QuestPanel.WBP_QuestPanel_C:WidgetTree.Message_Content.Text
+#: /Game/UI/GameplayScreen/Common/WBP_QuestPanel.WBP_QuestPanel_C:WidgetTree.Message_Content.Text
+msgctxt ",F183F07243F0E156CCCD73B5D3DD4836"
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent bibendum, nisi vitae facilisis semper"
+msgstr ""
+
+#. Key:	F198081F466D4765604128993B9C3D94
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_MessagePanel.WBP_MessagePanel_C:WidgetTree.Message_Content.Text
+#: /Game/UI/GameplayScreen/Common/WBP_MessagePanel.WBP_MessagePanel_C:WidgetTree.Message_Content.Text
+msgctxt ",F198081F466D4765604128993B9C3D94"
+msgid ""
+"It has been 30 years since the Great Storm that forget New London from a ragtag group of refugees into a community of survivors. Although the freezing temperatures and hostile enviroment are still here, they have smewhat been contained inside the city. As time passed and whole new generation of citizens was born without any memory of the World Before, a sense of normality returned and people started longing once more for comfort and meaning.\r\n"
+"\r\n"
+"But our coal reserves are running out. Engineers think we can substitute it with oil deposits recently surveyed in the vicinity. And so once more, the clock is ticking as we need to build a refinery to transform crude oil into heating fuel."
+msgstr ""
+
+#. Key:	F348CAED410967D3C26D96A0490C52EF
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_TimePanel.WBP_TimePanel_C:WidgetTree.2kropek.Text
+#: /Game/UI/GameplayScreen/Common/WBP_TimePanel.WBP_TimePanel_C:WidgetTree.2kropek.Text
+msgctxt ",F348CAED410967D3C26D96A0490C52EF"
+msgid ":"
+msgstr ""
+
+#. Key:	F3CC4C7242AC94738305ACA7F963DAED
+#. SourceLocation:	/Game/UI/MainMenuScreen/WBP_PcMainMenuScreen.WBP_PcMainMenuScreen_C:WidgetTree.DoItText.Text
+#: /Game/UI/MainMenuScreen/WBP_PcMainMenuScreen.WBP_PcMainMenuScreen_C:WidgetTree.DoItText.Text
+msgctxt ",F3CC4C7242AC94738305ACA7F963DAED"
+msgid "Exit"
+msgstr "Wyjście"
+
+#. Key:	F5085E1E46AF073D46772E9D5FA36A21
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_IndifferenceBar.Default__WBP_IndifferenceBar_C.PanelTitle
+#: /Game/UI/GameplayScreen/Common/WBP_IndifferenceBar.Default__WBP_IndifferenceBar_C.PanelTitle
+msgctxt ",F5085E1E46AF073D46772E9D5FA36A21"
+msgid "Test"
+msgstr ""
+
+#. Key:	FB1186EC407D11601BD5DEA01E51C67A
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_QuestPanel.WBP_QuestPanel_C:WidgetTree.Message_Content_1.Text
+#: /Game/UI/GameplayScreen/Common/WBP_QuestPanel.WBP_QuestPanel_C:WidgetTree.Message_Content_1.Text
+msgctxt ",FB1186EC407D11601BD5DEA01E51C67A"
+msgid "Curabitur pretium dictum enim ac ornare. Nulla facilisi."
+msgstr ""
+
+#. Key:	FC601F3741D1A715722F68B941571760
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_NotificationPanel.Default__WBP_NotificationPanel_C.PanelTitle
+#: /Game/UI/GameplayScreen/Common/WBP_NotificationPanel.Default__WBP_NotificationPanel_C.PanelTitle
+msgctxt ",FC601F3741D1A715722F68B941571760"
+msgid "Test"
+msgstr ""
+
+#. Key:	FDF8EBA04A41C518574AE28A10900C5A
+#. SourceLocation:	/Game/UI/GameplayScreen/Common/WBP_BuildingTracker.WBP_BuildingTracker_C:WidgetTree.NameofBuilding.Text
+#: /Game/UI/GameplayScreen/Common/WBP_BuildingTracker.WBP_BuildingTracker_C:WidgetTree.NameofBuilding.Text
+msgctxt ",FDF8EBA04A41C518574AE28A10900C5A"
+msgid "Stables"
+msgstr ""
